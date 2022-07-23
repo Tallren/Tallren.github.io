@@ -1,2 +1,0 @@
-# Tallren.github.io
-portfolio
